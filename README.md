@@ -1,4 +1,4 @@
-- 👋 Hi,안녕 ! I’m Olive Nives Nameere. A self-taught lady dev.
+- 👋 Hi,안녕 ! I’m Olive Nives Nameere. A self-taught lady dev. It's nice to meet you!
 - .. My friends call me Nives. Outside coding, I love to dance (Afro-Latin to be more specific) and watch series especially kdramas.
 - 👀 I’m interested in becoming a MERN developer, for now. 
 - 🌱 I’m currently learning React.js, Redux, Node.js and I'm in love with them 💞️ 
